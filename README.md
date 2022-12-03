@@ -5,7 +5,7 @@ This is a simple Word count project, which only counts the characters, special c
 
 40 mins approximately
 
-[Live Demo](https://caseconverter-akj.netlify.app/)
+[Live Demo](https://wordcount-akj.netlify.app/)
 
 ### SnapShot of the program
 
